@@ -1,4 +1,4 @@
 # Analises
- Repositório destinado a análise de dados.
+ Repositório destinado à análise de dados.
 
-Na pasta "Visualizacao_Dados" estão armazenados códigos na linguagem Python que geram gráficos a partir de conjuntos de dados em csv.
+Na pasta "Visualizacao_Dados" estão armazenados códigos em Python que geram gráficos a partir de conjuntos de dados em csv.
